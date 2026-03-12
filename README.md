@@ -3,8 +3,10 @@ This is html practice repository.
 <br> <br>
 Reference Resource : mdn web docs
 <br> <br>
-Concepts Covered :
+--- Concepts Covered ---
 <br> <br>
+CHAPTER 1 :
+<br>
 1.HTML Elements and tags <br>
 2.Paragraph and Heading Element <br>
 3.Lists <br>
@@ -14,3 +16,11 @@ Concepts Covered :
 7.Comments <br>
 8.br Tag <br>
 9.Bold, Itatilc & Underline Tags <br>
+<br> <br>
+CHAPTER 2 :
+<br>
+1.Inline v/s Block <br>
+2.Div and Span Element <br>
+3.hr Tag <br>
+4.Sub & Sup Tag <br>
+5.
