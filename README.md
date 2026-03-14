@@ -23,4 +23,6 @@ CHAPTER 2 :
 2.Div and Span Element <br>
 3.hr Tag <br>
 4.Sub & Sup Tag <br>
-5.
+5.Semantic Markup & Tags <br>
+6.HTML Entities <br>
+7.Emmets - HTML in speed<br>
