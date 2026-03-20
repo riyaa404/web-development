@@ -26,3 +26,4 @@ CHAPTER 2 :
 5.Semantic Markup & Tags <br>
 6.HTML Entities <br>
 7.Emmets - HTML in speed<br>
+8.Understanding HTML 5 <br>
