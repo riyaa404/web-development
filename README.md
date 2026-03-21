@@ -37,11 +37,11 @@ CHAPTER 3 :
 3.Colspan & Rowspan Attributes <br>
 4.Forms in HTML <br>
 5.Input - Form Element <br>
-(Text, Checkbox, Radio, Select, Range, etc.)
+(Text, Checkbox, Radio, Select, Range, etc.) <br>
 6.Placeholders & Labels <br>
+7.for, id, name and value Attributes <br>
+8.Text Area <br>
 7.Button Element <br>
-8.Name Attribute <br>
-9.Text Area <br>
 <br> <br>
 
 <!-- DONE I THINK, NEXT IS -->
