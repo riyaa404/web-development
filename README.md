@@ -17,6 +17,7 @@ CHAPTER 1 :
 8.br Tag <br>
 9.Bold, Itatilc & Underline Tags <br>
 <br> <br>
+
 CHAPTER 2 :
 <br>
 1.Inline v/s Block <br>
@@ -27,3 +28,10 @@ CHAPTER 2 :
 6.HTML Entities <br>
 7.Emmets - HTML in speed<br>
 8.Understanding HTML 5 <br>
+<br> <br>
+
+CHAPTER 3 :
+<br>
+1.Tables in HTML <br>
+2.Semantics in Tables <br>
+3.Colspan & Rowspan Attributes <br>
