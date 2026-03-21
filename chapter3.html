@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <!-- Tables in HTML -->
+    <!-- TABLES IN HTML -->
     
     <table border="1">
         <caption>Food Menu</caption>
@@ -91,7 +91,7 @@
             </tr>
             <tr>
                 <td>Males</td>
-                <td>1.5</td>
+                <td>1.9</td>
                 <td>0.003</td>
                 <td>40%</td>
             </tr>
@@ -105,5 +105,127 @@
 
     </table>
 
+    <br>
+    <hr>
+    <br>
+    
+    <!-- FORMS IN HTML -->
+     
+    <form action="/demo_server">
+
+        <!-- type text -->
+        <label for="username">Username : </label>
+        <input type="text" id="username" name="username" placeholder="username">
+        <br> <br>
+
+        <!-- type password -->
+        <label for="password">Password : </label>
+        <input type="password" id="password" name="password" placeholder="password">
+        <br> <br>
+
+        <!-- type number -->
+        <label for="age">Enter Age : </label>
+        <input type="number" id="age" name="age" placeholder="age">
+        <br> <br>
+
+        <!-- type radio -->
+        <label for="gender">Gender : </label>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label>
+        <input type="radio" id="other" name="gender" value="other">
+        <label for="other">Other</label>
+        <br> <br>
+
+        <!-- type dropdown -->
+        <label for="nationality">Choose Higher Education : </label>
+        <select name="nationality" id="nationality">
+            <option selected>Select</option>
+            <option value="primary">Primary</option>
+            <option value="secondary">Secondary</option>
+            <option value="higher-secondary">Higher-Secondary</option>
+            <option value="graduate">Graduate</option>
+            <option value="post-graduate">Post Graduate</option>
+            <option value="Phd">Phd</option>
+            <option value="illiterate">Illiterate</option>
+        </select>
+        <br> <br>
+
+        <!-- type range -->
+        <label for="volume">Volume : </label>
+        <input type="range" id="volume" name="volume" min="0" max="100" step="10" value="50">
+        <br> <br>
+
+        <!-- type checkbox -->
+        <input type="checkbox" id="terms" name="terms">
+        <label for="terms">I agree to all terms and conditions</label>
+        <br>
+        <input type="checkbox" id="cookies" name="cookies" checked>
+        <label for="cookies">Allow all cookies</label>
+        <br> <br>
+
+        <!-- Text Area -->
+        <label for="feed">Give Feedback : </label>
+        <br>
+        <textarea name="feed" id="feed" placeholder="write here..." rows="5" cols="20"></textarea>
+        <br> <br>
+        <!-- BUTTONS ELEMENT -->
+        <div>
+            <button type="submit">Submit</button>
+            <button type="button">Click me</button>
+            <button type="reset">Reset</button>
+        </div>
+    </form>
+    <br>
+    <hr>
+
+    <!-- Practice Question for Forms -->
+
+    <form action="/server">
+        <h2>Registeration Form</h2>
+
+        <input type="text" id="fname" name="fname" placeholder="First Name">
+        <input type="text" id="lname" name="lname" placeholder="Last Name">
+        <br><br>
+
+        <label for="gender">Select Gender : </label>
+        <select name="gender" id="gender">
+            <option selected>select</option>
+            <option value="female">Female</option>
+            <option value="male">Male</option>
+            <option value="other">Other</option>
+        </select>
+        <br><br>
+
+        <label for="terms">Do you agree to all terms of service?</label>
+        <input type="checkbox" id="terms" name="terms" selected>
+        <label for="terms">Yes, I agree</label>
+        <br><br>
+
+        <button type="reset">Reset</button>
+        <button type="submit">Register</button>
+
+    </form>
+    <br>
+    <hr>
+
+    <!-- NAME ATTRIBUTE -->
+
+    <form action="https://www.youtube.com/results?">
+        <h3>Search at Youtube</h3>
+
+        <input type="text" name="search_query" placeholder="Search">
+        <button type="submit">Search</button>
+    </form>
+    
+    <form action="https://www.google.com/search?q=apple">
+        <h3>Search at Google</h3>
+
+        <input type="text" name="q" placeholder="Search in Google">
+        <button type="submit">Search</button>
+    </form>
+    <br>
+    
 </body>
 </html>
