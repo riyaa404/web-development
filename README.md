@@ -1,5 +1,5 @@
 # html-pract
-This is html practice repository.
+This is HTML learning repository.
 <br> <br>
 Reference Resource : mdn web docs
 <br> <br>
