@@ -1,5 +1,5 @@
 # html-pract
-This is HTML learning repository.
+This is Web Development learning repository.
 <br> <br>
 Reference Resource : mdn web docs
 <br> <br>
@@ -42,6 +42,22 @@ CHAPTER 3 :
 7.for, id, name and value Attributes <br>
 8.Text Area <br>
 7.Button Element <br>
+<br> <br>
+
+CHAPTER 4 : 
+<br>
+1.Introduction to CSS <br>
+2.Basic CSS Format <br>
+3.Including CSS <br>
+4.Color Property <br>
+5.Background Color Property <br>
+6.Color Systems (Name & RGB)
+7.Hex Codes <br>
+8.Text Align Property <br>
+9.Font Weight & Text Decoration <br>
+10.Line Height & Letter Spacing <br>
+11.Units in CSS (Pixel) <br>
+12.Font Family <br>
 <br> <br>
 
 <!-- DONE I THINK, NEXT IS -->
