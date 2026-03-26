@@ -1,4 +1,4 @@
-# web-pract
+# web-development
 This is Web Development learning repository.
 <br> <br>
 Reference Resource : mdn web docs
