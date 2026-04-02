@@ -51,7 +51,7 @@ CHAPTER 4 :
 3.Including CSS <br>
 4.Color Property <br>
 5.Background Color Property <br>
-6.Color Systems (Name & RGB)
+6.Color Systems (Name & RGB) <br>
 7.Hex Codes <br>
 8.Text Align Property <br>
 9.Font Weight & Text Decoration <br>
